@@ -1,0 +1,10 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-ruby-format">
+  <defs><linearGradient id="rfgrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DC2626"/><stop offset="1" stop-color="#7F1D1D"/></linearGradient></defs>
+  <rect width="256" height="256" rx="56" fill="url(#rfgrad)"/>
+  <g stroke="#FFFFFF" stroke-width="15" stroke-linecap="round">
+    <path d="M80 86H176"/>
+    <path d="M80 120H148"/>
+    <path d="M80 154H176"/>
+    <path d="M80 188H132"/>
+  </g>
+</svg>
