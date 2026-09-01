@@ -2,3 +2,5 @@ github.com/go-ruby-format/format v0.0.0-20260703115518-8adcf1b4af5f h1:N4nvZMNtL
 github.com/go-ruby-format/format v0.0.0-20260703115518-8adcf1b4af5f/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
 github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1 h1:TgyhqiG4MVsDnL9X1SEhfEEfbdqWooPJFdbJJkyCpK8=
 github.com/go-ruby-format/format v0.0.0-20260815195335-4038d17b79a1/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
+github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c h1:ffhla/GiFfRo9sfePiyW9kvXOx/Y0GYhIk+vinmBgTs=
+github.com/go-ruby-format/format v0.0.0-20260831115501-f58c7d12507c/go.mod h1:1tuz12SHPOcnFSfdPYRFwVvRhMT4Xn4M4jfPFgM7pLA=
